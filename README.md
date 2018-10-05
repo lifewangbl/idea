@@ -1,11 +1,11 @@
 # idea
 #### 第一、idea的安装、配置与使用，详细描述见文档IntelliJ IDEA.pdf
 #### 第二、idea的快捷键：导入keymap-shkstart.jar
-   导入后，常用并且亲测有效的快捷键有以下这些：
-   1、执行(run)    alt+r
-   2、提示补全      alt+/
-   3、单行注释      ctrl + /
-   4、多行注释      ctrl + shift + /
+#### 导入后，常用并且亲测有效的快捷键有以下这些：
+######   1、执行(run)    alt+r
+######   2、提示补全      alt+/
+######   3、单行注释      ctrl + /
+######   4、多行注释      ctrl + shift + /
    5、删除一行或选中行 (delete line)      ctrl+d
    6、向下移动行(move statement down)     alt+down
    7、向上移动行(move statement up)       alt+up
