@@ -1,6 +1,6 @@
 # idea
-第一、idea的安装、配置与使用，详细描述见文档IntelliJ IDEA.pdf
-第二、idea的快捷键：导入keymap-shkstart.jar
+##第一、idea的安装、配置与使用，详细描述见文档IntelliJ IDEA.pdf
+##第二、idea的快捷键：导入keymap-shkstart.jar
    导入后，常用并且亲测有效的快捷键有以下这些：
    1、执行(run)    alt+r
    2、提示补全      alt+/
